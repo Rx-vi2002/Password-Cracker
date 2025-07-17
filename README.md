@@ -11,11 +11,13 @@ This is a simple Python-based password cracker that performs a **dictionary atta
 - Great for learning password security fundamentals
 
 ---
+
 ## 🧠 How It Works
 
 The script reads a list of possible passwords from a wordlist and hashes each one using SHA-256. It compares the result to the user-provided hash. If a match is found — boom! 💥 Password cracked.
 
 ---
+
 ## Badges
 ![Python](https://img.shields.io/badge/Language-Python-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Focusing-brightgreen)
